@@ -1,4 +1,4 @@
-# beyond_origin_final_JMLR
+# beyond_origin_experiments
 
 To get the plots in Fig 1, run 2layer_squared.ipynb  
 To get the plots in Fig 2, run p_t_vs_psi_t.ipynb  
